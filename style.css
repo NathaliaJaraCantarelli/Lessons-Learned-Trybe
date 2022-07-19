@@ -1,8 +1,14 @@
 body {
-    background-color: rgb(253, 251, 251);
-    margin-top: 0%;
+  background-color: rgb(253, 251, 251);
+  margin-top: 0%;
 }
 
 header {
-    position: fixed;
+  position: fixed;
+}
+
+img {
+  position: relative;
+  margin-top: 90px;
+  width: 200px;
 }
