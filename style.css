@@ -40,22 +40,22 @@ section {
   margin-left: 10%;
 }
 
-ol, ul {
+ol , ul {
   display: inline-block;
   width: 40%;
   padding-bottom: 20px;
   vertical-align: text-top;
 }
 
-h2, h3 {
+h2 , h3 {
   text-align: center;
-  padding: 0px;
+  padding: 0;
   text-decoration-line: underline;
   margin: 10px;
 }
 
 a {
-  padding: 0px 20%;
+  padding: 0 20%;
   text-decoration: none;
   text-decoration-color: black;
   font-size: larger;
@@ -64,5 +64,5 @@ a {
 footer {
   background-color: rgb(243, 236, 227);
   text-align: center;
-  padding: 50px 0px;
+  padding: 50px 0;
 }
