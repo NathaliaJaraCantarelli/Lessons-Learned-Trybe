@@ -1,3 +1,8 @@
 body {
     background-color: rgb(253, 251, 251);
+    margin-top: 0%;
+}
+
+header {
+    position: fixed;
 }
