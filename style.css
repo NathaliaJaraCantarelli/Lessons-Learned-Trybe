@@ -71,11 +71,11 @@ h2 , h3 {
 a {
   padding: 0 20%;
   text-decoration: none;
-  color: rgb(0, 0, 0);
+  color: black;
   font-size: larger;
 }
 
- table {
+table {
   background-color: rgb(243, 236, 227);
   text-align: center;
   padding: 10px;
