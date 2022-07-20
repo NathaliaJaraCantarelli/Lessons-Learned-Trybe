@@ -13,10 +13,24 @@ header {
   margin-top: 0%;
 }
 
+#titulo {
+  font-family: cursive;
+  line-height: 50px;
+}
+
 img {
-  float: right;
+  margin-top: 150px;
   width: 200px;
   border-radius: 90%;
+}
+
+.lado-esquerdo {
+  float: right;
+  margin-right: 2%;
+}
+
+.lado-direito {
+  margin-top: 0%;
 }
 
 section {
@@ -57,8 +71,21 @@ h2 , h3 {
 a {
   padding: 0 20%;
   text-decoration: none;
-  text-decoration-color: black;
+  color: rgb(0, 0, 0);
   font-size: larger;
+}
+
+ table {
+  background-color: rgb(243, 236, 227);
+  text-align: center;
+  padding: 10px;
+  border: 1px solid black;
+  width: 30%;
+  margin-left: 35%;
+}
+
+th {
+  border-bottom: 1px solid black;
 }
 
 footer {
